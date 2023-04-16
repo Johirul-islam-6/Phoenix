@@ -6,8 +6,8 @@ import Reducer from "./Reducer";
 const AppContext = React.createContext();
 const initialState = {
   loading: true,
-  firstName: "Nahean",
-  lastName: "Fardous",
+  firstName: "Johirul Islam",
+  lastName: "Rasel",
 };
 
 const AppProvider = ({ children }) => {
